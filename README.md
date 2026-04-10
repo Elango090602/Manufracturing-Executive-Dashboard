@@ -1,61 +1,104 @@
-# Manufacturing Executive Dashboard | Power BI Project
+# 🚀 Manufacturing Executive Dashboard | Power BI Project
 
-## Project Overview
-This project is a multi-page Power BI dashboard designed for a manufacturing business to monitor performance across executive operations, customer sales, finance, and inventory.  
+<p align="center">
+  <img src="Screenshots/executive-dashboard.png" alt="Executive Dashboard Banner" width="100%">
+</p>
 
-The dashboard helps decision-makers track key KPIs, identify operational issues, compare actual performance against targets, and improve business visibility through interactive reporting.
-
----
-
-## Business Problem
-Manufacturing businesses often manage data across multiple departments such as production, sales, finance, and inventory.  
-Without a centralized dashboard, it becomes difficult for leadership teams to:
-
-- monitor business performance in one place
-- track revenue, profit, and costs
-- evaluate customer and product performance
-- manage stock efficiently
-- identify factors affecting OEE and operations
-
-This project solves that problem by creating a consolidated Power BI reporting solution for executive-level decision-making.
+<p align="center">
+  <img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Language-DAX-1F4E79?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Prep-Power%20Query-217346?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-Manufacturing-5B5EA6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-2E8B57?style=for-the-badge" />
+</p>
 
 ---
 
-## Dashboard Pages
+## 📌 Project Summary
 
-### 1. Executive Dashboard
-Provides a high-level business overview with KPIs such as:
+This project is a **multi-page Power BI dashboard solution** built for a manufacturing business to monitor performance across:
+
+- Executive overview
+- Customer sales
+- Finance
+- Inventory
+
+The goal of this project is to help decision-makers track KPIs, monitor business health, identify operational gaps, and support strategic decisions using interactive dashboards.
+
+---
+
+## 🎯 Business Problem
+
+Manufacturing companies generate data across multiple departments, but that data often stays scattered across separate systems.
+
+This creates problems such as:
+
+- no single view of business performance
+- difficulty tracking revenue, cost, and profitability
+- weak visibility into customer and product performance
+- stock inefficiencies and dead inventory
+- no quick way to monitor production efficiency
+
+This dashboard solves that by bringing all major business functions into a **single executive reporting system**.
+
+---
+
+## 🧩 Dashboard Modules
+
+## 1) Executive Dashboard
+
+Provides a high-level snapshot of business performance with KPIs and operational summaries.
+
+### Key Metrics:
 - Units Sold
 - Revenue
 - Expenses
 - Gross Profit
 - Net Profit
-- Shift-wise Production
 - Budget vs Actual Spend
-- Top Selling Products
 - OEE Factors
-- Cost by Department
+- Shift-wise Production
+- Top Selling Products
 - Top Customers
-- Stock Overview Over Time
+- Cost by Department
+- Stock Trend Over Time
 
-### 2. Customer Sales Dashboard
-Focuses on customer and sales performance:
+<p align="center">
+  <img src="Screenshots/executive-dashboard.png" alt="Executive Dashboard" width="100%">
+</p>
+
+---
+
+## 2) Customer Sales Dashboard
+
+Focused on customer performance, revenue generation, conversion, and retention.
+
+### Key Metrics:
 - Total Revenue
 - Completed Orders
 - Won Conversion
 - Top Selling Product
-- Retention Rate
-- Conversion Status
+- Avg Retention Rate
 - Revenue by Region
 - Actual Sales vs Revenue
-- Top Customers
+- Conversion Status
+- Top 5 Customers
 - Order Status
-- Product Retention Split
+- Retention Breakdown
 
-### 3. Finance Dashboard
-Provides a finance-focused view of business performance:
+<p align="center">
+  <img src="Screenshots/customer-sales-dashboard.png" alt="Customer Sales Dashboard" width="100%">
+</p>
+
+---
+
+## 3) Finance Dashboard
+
+Designed to track revenue, profitability, and financial trends across products, countries, and departments.
+
+### Key Metrics:
 - Sales
-- Cost of Goods Manufactured (COGM)
+- COGM
 - Profit
 - Units Sold
 - Monthly Sales Trend
@@ -63,111 +106,102 @@ Provides a finance-focused view of business performance:
 - Sales by Country
 - Sales by Department
 
-### 4. Inventory Dashboard
-Tracks stock and material-level performance:
+<p align="center">
+  <img src="Screenshots/finance-dashboard.png" alt="Finance Dashboard" width="100%">
+</p>
+
+---
+
+## 4) Inventory Dashboard
+
+Helps monitor stock levels, material performance, lead times, and inventory movement.
+
+### Key Metrics:
 - Inventory Value
 - Raw Material Stock
 - Finished Goods Stock
 - Dead Stock
 - Total Consumption
-- Turnover Ratio
-- Average Lead Days
-- Stock Overview
+- Avg Turnover Ratio
+- Avg Lead Days
 - Material Details
-- Top Materials by Quantity
 - Delivery Status
+- Top Materials by Quantity
 - Stock Trend Over Time
+
+<p align="center">
+  <img src="Screenshots/inventory-dashboard.png" alt="Inventory Dashboard" width="100%">
+</p>
 
 ---
 
-## Key KPIs Tracked
+## 📊 KPI Highlights
+
+### Executive KPIs
 - Revenue
 - Gross Profit
 - Net Profit
 - Expenses
 - Units Sold
-- Order Completion Rate
+
+### Production KPIs
+- Shift-wise Production
+- Availability
+- Performance
+- Quality
+- OEE
+
+### Customer KPIs
+- Completed Orders
 - Conversion Rate
 - Retention Rate
+- Top Customers
+- Regional Revenue
+
+### Inventory KPIs
 - Inventory Value
-- Raw Material Stock
-- Finished Goods Stock
+- RM Stock
+- FG Stock
 - Dead Stock
-- Average Lead Days
-- OEE Factors:
-  - Availability
-  - Performance
-  - Quality
+- Lead Days
+- Turnover Ratio
 
 ---
 
-## Tools & Technologies Used
-- **Power BI**
-- **Power Query**
-- **DAX**
-- **Excel / CSV**
-- **Data Modeling**
-- **Dashboard Design**
+## 🛠 Tools & Technologies Used
+
+| Tool | Purpose |
+|------|---------|
+| **Power BI** | Dashboard development and reporting |
+| **Power Query** | Data cleaning and transformation |
+| **DAX** | KPI calculations and measures |
+| **Excel / CSV** | Data source and structured inputs |
+| **Data Modeling** | Relationship building and reporting structure |
 
 ---
 
-## Project Files
-- `Dashboard/Manufacturing_Dashboard.pbix` → Main Power BI dashboard file
-- `Screenshots/` → Dashboard preview images
-- `Data/` → Sample dataset / supporting files
-- `Docs/` → Business notes, KPI definitions, and documentation
+## 📁 Project Structure
 
----
-
-## Screenshots
-
-### Executive Dashboard
-![Executive Dashboard](Screenshots/executive-dashboard.png)
-
-### Customer Sales Dashboard
-![Customer Sales Dashboard](Screenshots/customer-sales-dashboard.png)
-
-### Finance Dashboard
-![Finance Dashboard](Screenshots/finance-dashboard.png)
-
-### Inventory Dashboard
-![Inventory Dashboard](Screenshots/inventory-dashboard.png)
-
----
-
-## Key Insights
-Some example insights generated from the dashboard include:
-
-- Revenue and profit performance can be compared against last year to measure growth.
-- Executive leadership can quickly identify top-selling products and high-value customers.
-- Shift-wise production highlights which shift contributes most to output.
-- Budget vs actual spend helps monitor cost control.
-- OEE factor breakdown helps identify production efficiency issues.
-- Finance analysis shows sales distribution across products, countries, and departments.
-- Inventory monitoring helps reduce dead stock and improve stock planning.
-
----
-
-## How to Use
-1. Download the `.pbix` file from the `Dashboard` folder.
-2. Open it in **Power BI Desktop**.
-3. Refresh the data if a sample dataset is connected.
-4. Use filters and slicers to interact with the report pages.
-
----
-
-## Future Improvements
-- Add predictive analysis for demand forecasting
-- Add supplier performance tracking
-- Add drill-through pages for department-level analysis
-- Integrate real-time manufacturing data
-- Add alert-based KPI monitoring
-
----
-
-## Author
-**Elango**  
-Aspiring Data Analyst / BI Analyst  
-Focused on building business-driven dashboards in Power BI
-
-If you like this project, feel free to star the repository.# OEE---Executive-Dashboard
+```bash
+manufacturing-executive-dashboard/
+│
+├── README.md
+├── .gitignore
+│
+├── Dashboard/
+│   └── Manufacturing_Dashboard.pbix
+│
+├── Screenshots/
+│   ├── executive-dashboard.png
+│   ├── customer-sales-dashboard.png
+│   ├── finance-dashboard.png
+│   └── inventory-dashboard.png
+│
+├── Data/
+│   ├── sample_data.xlsx
+│   └── data_dictionary.xlsx
+│
+└── Docs/
+    ├── business-problem.md
+    ├── kpi-list.md
+    └── insights-summary.md
