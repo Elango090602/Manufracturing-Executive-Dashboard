@@ -1,7 +1,7 @@
 # 🚀 Manufacturing Executive Dashboard | Power BI Project
 
 <p align="center">
-  <img src="Screenshots/executive-dashboard.png" alt="Executive Dashboard Banner" width="100%">
+  <img src="C:\Users\elang\OneDrive\Screenshots\Desktop\Documents\Kashtech All Documents\Executive.png" alt="Executive Dashboard Banner" width="100%">
 </p>
 
 <p align="center">
