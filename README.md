@@ -1,7 +1,7 @@
 # 🚀 Manufacturing Executive Dashboard | Power BI Project
 
 <p align="center">
-  <img src="C:\Users\elang\OneDrive\Screenshots\Desktop\Documents\Kashtech All Documents\Executive.png" alt="Executive Dashboard Banner" width="100%">
+  <img src="Images\Executive.png" alt="Executive Dashboard Banner" width="100%">
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ Provides a high-level snapshot of business performance with KPIs and operational
 - Stock Trend Over Time
 
 <p align="center">
-  <img src="Screenshots/executive-dashboard.png" alt="Executive Dashboard" width="100%">
+  <img src="Images/executive-dashboard.png" alt="Executive Dashboard" width="100%">
 </p>
 
 ---
@@ -87,7 +87,7 @@ Focused on customer performance, revenue generation, conversion, and retention.
 - Retention Breakdown
 
 <p align="center">
-  <img src="Screenshots/customer-sales-dashboard.png" alt="Customer Sales Dashboard" width="100%">
+  <img src="Images/customer-sales-dashboard.png" alt="Customer Sales Dashboard" width="100%">
 </p>
 
 ---
@@ -107,7 +107,7 @@ Designed to track revenue, profitability, and financial trends across products, 
 - Sales by Department
 
 <p align="center">
-  <img src="Screenshots/finance-dashboard.png" alt="Finance Dashboard" width="100%">
+  <img src="Images/finance-dashboard.png" alt="Finance Dashboard" width="100%">
 </p>
 
 ---
@@ -130,7 +130,7 @@ Helps monitor stock levels, material performance, lead times, and inventory move
 - Stock Trend Over Time
 
 <p align="center">
-  <img src="Screenshots/inventory-dashboard.png" alt="Inventory Dashboard" width="100%">
+  <img src="Images/inventory-dashboard.png" alt="Inventory Dashboard" width="100%">
 </p>
 
 ---
@@ -191,7 +191,7 @@ manufacturing-executive-dashboard/
 ├── Dashboard/
 │   └── Manufacturing_Dashboard.pbix
 │
-├── Screenshots/
+├── Images/
 │   ├── executive-dashboard.png
 │   ├── customer-sales-dashboard.png
 │   ├── finance-dashboard.png
