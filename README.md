@@ -64,7 +64,7 @@ Provides a high-level snapshot of business performance with KPIs and operational
 - Stock Trend Over Time
 
 <p align="center">
-  <img src="Images/executive-dashboard.png" alt="Executive Dashboard" width="100%">
+  <img src="Images/Executive.png" alt="Executive Dashboard" width="100%">
 </p>
 
 ---
@@ -87,7 +87,7 @@ Focused on customer performance, revenue generation, conversion, and retention.
 - Retention Breakdown
 
 <p align="center">
-  <img src="Images/customer-sales-dashboard.png" alt="Customer Sales Dashboard" width="100%">
+  <img src="Images/Customer sales.png" alt="Customer Sales Dashboard" width="100%">
 </p>
 
 ---
@@ -107,7 +107,7 @@ Designed to track revenue, profitability, and financial trends across products, 
 - Sales by Department
 
 <p align="center">
-  <img src="Images/finance-dashboard.png" alt="Finance Dashboard" width="100%">
+  <img src="Images/Finance.png" alt="Finance Dashboard" width="100%">
 </p>
 
 ---
@@ -130,7 +130,7 @@ Helps monitor stock levels, material performance, lead times, and inventory move
 - Stock Trend Over Time
 
 <p align="center">
-  <img src="Images/inventory-dashboard.png" alt="Inventory Dashboard" width="100%">
+  <img src="Images/Inventory.png" alt="Inventory Dashboard" width="100%">
 </p>
 
 ---
